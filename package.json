@@ -1,15 +1,19 @@
 {
   "name": "ccm",
+  "title": "Câmara do Comércio de Moçambique | CCM",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "install-hook": "cp post-merge .git/hooks/post-merge && sudo chmod +x .git/hooks/post-merge && if [ ! -f .env.production ]; then cp .env.example .env.production;fi"
   },
   "dependencies": {
+    "axios": "^0.24.0",
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
+    "vue-i18n": "^8.26.7",
     "vue-router": "^3.2.0"
   },
   "devDependencies": {

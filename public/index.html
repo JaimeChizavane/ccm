@@ -1,17 +1,96 @@
 <!DOCTYPE html>
-<html lang="">
-  <head>
+<html class="no-js" lang="pt">
+<head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="<%= BASE_URL %>images/favicon.ico"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="<%= BASE_URL %>assets/css/normalize.css">
+    <link rel="stylesheet" href="<%= BASE_URL %>assets/css/main.css">
+    <!-- Bootstarp css  -->
+    <link rel="stylesheet" href="<%= BASE_URL %>assets/css/bootstrap.min.css">
+    <!-- Flaticon Css  -->
+    <link rel="stylesheet" href="<%= BASE_URL %>assets/font/flaticon.css">
+    <!-- Font awesome Css  -->
+    <link rel="stylesheet" href="<%= BASE_URL %>assets/css/font-awesome.min.css">
+    <!-- Slider css  -->
+    <link rel="stylesheet" href="<%= BASE_URL %>assets/css/camera.css">
+    <link rel="stylesheet" href="<%= BASE_URL %>assets/css/animate.css">
+    <!-- FancyBox Css  -->
+    <link rel="stylesheet" href="<%= BASE_URL %>assets/css/jquery.fancybox.css">
+    <!-- swiper css -->
+    <link rel="stylesheet" href="<%= BASE_URL %>assets/css/swiper.min.css"/>
+    <!-- nst Filtering css -->
+    <link rel="stylesheet" href="<%= BASE_URL %>assets/css/jquery.nstSlider.css"/>
+    <!-- Flex Slider css -->
+    <link rel="stylesheet" href="<%= BASE_URL %>assets/css/flexslider.css"/>
+    <!-- Main Css file -->
+    <link rel="stylesheet" href="<%= BASE_URL %>assets/css/style.css"/>
+    <link rel="stylesheet" href="<%= BASE_URL %>assets/css/responsive.css"/>
+    <script src="<%= BASE_URL %>assets/js/vendor/modernizr-2.8.3.min.js"></script>
     <title><%= htmlWebpackPlugin.options.title %></title>
-  </head>
-  <body>
-    <noscript>
-      <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
-    </noscript>
-    <div id="app"></div>
-    <!-- built files will be auto injected -->
-  </body>
+</head>
+<body>
+<noscript>
+    <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled.
+        Please enable it to continue.</strong>
+</noscript>
+<!--[if lt IE 8]>
+<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade
+    your browser</a> to improve your experience.</p>
+<![endif]-->
+<!-- Header Section -->
+<!-- Preloader -->
+<div id="loading">
+    <div id="loading-center">
+        <div id="loading-center-absolute">
+            <div class="object" id="object_one"></div>
+            <div class="object" id="object_two"></div>
+            <div class="object" id="object_three"></div>
+            <div class="object" id="object_four"></div>
+            <div class="object" id="object_five"></div>
+            <div class="object" id="object_six"></div>
+            <div class="object" id="object_seven"></div>
+            <div class="object" id="object_eight"></div>
+            <div class="object" id="object_big"></div>
+        </div>
+    </div>
+</div>
+<div id="app"></div>
+<!-- built files will be auto injected -->
+
+<div class="scrollToTop"><i class="fa fa-angle-up"></i></div>
+<!-- End Footer section -->
+<script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+<script>window.jQuery || document.write('<script src="<%= BASE_URL %>assets/js/vendor/jquery-1.12.0.min.js"><\/script>')</script>
+<!-- Bootstarp Min js file -->
+<script src="<%= BASE_URL %>assets/js/bootstrap.min.js"></script>
+<!-- Paralux -->
+<script src="<%= BASE_URL %>assets/js/simpleparallax.js"></script>
+<!-- My Custom slider js -->
+<script type='text/javascript' src='<%= BASE_URL %>assets/js/jquery.easing.1.3.js'></script>
+<script type='text/javascript' src='<%= BASE_URL %>assets/js/camera.min.js'></script>
+<!-- Counter Up js -->
+<script src="<%= BASE_URL %>assets/js/waypoints.min.js"></script>
+<script src="<%= BASE_URL %>assets/js/jquery.countup.js"></script>
+<!-- FancyBox Js -->
+<script src="<%= BASE_URL %>assets/js/jquery.fancybox.js"></script>
+<!-- swiper -->
+<script src="<%= BASE_URL %>assets/js/swiper.min.js"></script>
+<!--for skill chat jquary-->
+<script src="<%= BASE_URL %>assets/js/jquery.easypiechart.js"></script>
+<!-- google map js -->
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<script src="<%= BASE_URL %>assets/js/gmap3.min.js"></script>
+<!-- Flex Slider js -->
+<script src="<%= BASE_URL %>assets/js/jquery.flexslider.js"></script>
+<!-- Filtering js -->
+<script src="<%= BASE_URL %>assets/js/jquery.nstSlider.min.js"></script>
+<!-- Smoth scroll js -->
+<script src="<%= BASE_URL %>assets/js/jQuery.scrollSpeed.js"></script>
+<!-- All Plugin Active code Here -->
+<script src="<%= BASE_URL %>assets/js/plugins.js"></script>
+<!-- Main js code here -->
+<script src="<%= BASE_URL %>assets/js/main.js"></script>
+</body>
 </html>

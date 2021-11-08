@@ -3,11 +3,11 @@
     <div class="container">
       <div class="row">
         <div class="newsletter-section-box">
-          <h2>Join Our Newsletter</h2>
+          <h2>Seja membro já</h2>
           <div class="input-box">
             <form action="email">
-              <input type="email" name="email" placeholder="Enter your e-mail here" />
-              <input type="submit" value="Subscrive Now" />
+              <input type="email" name="email" placeholder="Insira seu email" />
+              <input type="submit" value="Subscreva" />
             </form>
           </div>
         </div>

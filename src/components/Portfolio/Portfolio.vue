@@ -3,8 +3,8 @@
     <div class="container">
       <div class="row">
         <div class="section-heading">
-          <h2 class="section-title">Our Portfolio</h2>
-          <p class="section-content">Globally leverage other's clientfocused growth strategies through pandemic and an users. embrace corporate technologies for unique testing</p>
+          <h2 class="section-title">Nossa Galeria</h2>
+          <p class="section-content">Encontre aqui a nossa galeria de fotos</p>
         </div>
       </div>
       <div class="row">
@@ -100,7 +100,7 @@
             </div>
           </div>
         </div>
-        <a href="#" class="button">VIEW ALL PHOTOS</a>
+        <a href="#" class="button">VER TODAS FOTOS</a>
       </div>
     </div>
   </section>

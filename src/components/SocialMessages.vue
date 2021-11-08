@@ -8,24 +8,23 @@
               <div class="swiper-slide">
                 <div class="single-twit">
                   <i class="fa fa-twitter" aria-hidden="true"></i>
-                  <p>Somrat Islam @Bonndu007Somrat Feb 18Globally expeyiadite wireless expertise without progressive
-                    imperatives. Intrinsicly embrace holistic data after ethical from <span>@invisionapp:<a href="#"> http://bit.ly/1VnL6yL </a></span>02
+                  <p>Mensagens que estarao integradas as redes socias como Twiter, Facebook
+                     <span>@invisionapp:<a href="#"> http://bit.ly/1VnL6yL </a></span>2 dias passados</p>
+                </div>
+              </div>
+              <div class="swiper-slide">
+                <div class="single-twit">
+                  <i class="fa fa-twitter" aria-hidden="true"></i>
+                  <p>Mensagens que estarao integradas as redes socias como Twiter, Facebook
+                     <span>@invisionapp:<a href="#"> http://bit.ly/1VnL6yL </a></span>02
                     Days ago</p>
                 </div>
               </div>
               <div class="swiper-slide">
                 <div class="single-twit">
                   <i class="fa fa-twitter" aria-hidden="true"></i>
-                  <p>Somrat Islam @Bonndu007Somrat Feb 18Globally expeyiadite wireless expertise without progressive
-                    imperatives. Intrinsicly embrace holistic data after ethical from <span>@invisionapp:<a href="#"> http://bit.ly/1VnL6yL </a></span>02
-                    Days ago</p>
-                </div>
-              </div>
-              <div class="swiper-slide">
-                <div class="single-twit">
-                  <i class="fa fa-twitter" aria-hidden="true"></i>
-                  <p>Somrat Islam @Bonndu007Somrat Feb 18Globally expeyiadite wireless expertise without progressive
-                    imperatives. Intrinsicly embrace holistic data after ethical from <span>@invisionapp:<a href="#"> http://bit.ly/1VnL6yL </a></span>02
+                  <p>Mensagens que estarao integradas as redes socias como Twiter, Facebook
+                    <span>@invisionapp:<a href="#"> http://bit.ly/1VnL6yL </a></span>02
                     Days ago</p>
                 </div>
               </div>

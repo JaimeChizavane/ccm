@@ -3,8 +3,8 @@
     <div class="container">
       <div class="row">
         <div class="section-heading">
-          <h2 class="section-title">Our Great Team</h2>
-          <p class="section-content">Globally leverage other's clientfocused growth strategies through pandemic and an users. embrace corporate technologies for unique testing</p>
+          <h2 class="section-title">Organograma</h2>
+          <p class="section-content">Conheca o nosso organigrama e os represetantes (pelouros e delegados)</p>
         </div>
       </div>
       <div class="row">
@@ -27,8 +27,8 @@
                 <span class="minus-stick"></span>
               </div>
               <div class="member-info">
-                <h3><a href="team_member_single_page.html">Robot Smith</a></h3>
-                <h4>Manajer</h4>
+                <h3><a href="team_member_single_page.html">Membro</a></h3>
+                <h4>Presedente</h4>
               </div>
             </div>
           </div>
@@ -50,8 +50,8 @@
                 <span class="minus-stick"></span>
               </div>
               <div class="member-info">
-                <h3><a href="team_member_single_page.html">Samuel Smith</a></h3>
-                <h4>Project Manager</h4>
+                <h3><a href="team_member_single_page.html">Membro 2</a></h3>
+                <h4>Secretaria Geral</h4>
               </div>
             </div>
           </div>
@@ -73,8 +73,8 @@
                 <span class="minus-stick"></span>
               </div>
               <div class="member-info">
-                <h3><a href="team_member_single_page.html">Janaton Doe</a></h3>
-                <h4>CEO</h4>
+                <h3><a href="team_member_single_page.html">Membro 3</a></h3>
+                <h4>Presidente do pelouro de genero</h4>
               </div>
             </div>
           </div>
@@ -96,8 +96,8 @@
                 <span class="minus-stick"></span>
               </div>
               <div class="member-info">
-                <h3><a href="team_member_single_page.html">Smith Jhonson</a></h3>
-                <h4>Manajer</h4>
+                <h3><a href="team_member_single_page.html">Membro 4</a></h3>
+                <h4>Presidente do pelouro de Informatica</h4>
               </div>
             </div>
           </div>

@@ -6,25 +6,24 @@
           <div class="row">
             <div class="col-md-3 col-sm-6">
               <div class="f-widget">
-                <h2>About The Boss</h2>
+                <h2>Acerca da CCM</h2>
                 <div class="footer-content">
-                  <p>Distily enable team driven services through extensive is a relatonships platforms with interactive
-                    content. Enthusiastically scale effective.</p>
+                  <p>A Câmara de Comércio de Moçambique está representado a nivel nacional e internacional. Para mais Informações contacte-nos.</p>
                 </div>
                 <div class="contact-info">
                   <ul>
-                    <li><i class="fa fa-home" aria-hidden="true"></i><span> New Chokoya Road, USA.</span></li>
-                    <li><i class="fa fa-phone" aria-hidden="true"></i><span> +8801 923 970 212</span></li>
-                    <li><i class="fa fa-envelope-o" aria-hidden="true"></i><span> Contact@yourmail.com</span></li>
-                    <li><i class="fa fa-globe" aria-hidden="true"></i><span> www.codexcoder.com</span></li>
+                    <li><i class="fa fa-home" aria-hidden="true"></i><span> Rua Mateus Sansão Muthemba, nº 452 - Maputo</span></li>
+                    <li><i class="fa fa-phone" aria-hidden="true"></i><span> +258 21491970</span></li>
+                    <li><i class="fa fa-envelope-o" aria-hidden="true"></i><span> info@ccmoz.org.mz</span></li>
+                    <li><i class="fa fa-globe" aria-hidden="true"></i><span> http://ccmoz.org.mz</span></li>
                   </ul>
                 </div>
               </div>
             </div>
             <div class="col-md-3 col-sm-6">
               <div class="f-widget">
-                <h2>Latest News</h2>
-                <ul class="latest-news">
+                <h2>Últimas notícias</h2>
+                <!-- <ul class="latest-news">
                   <li>
 												<span class="small-thumbnail">
 													<a href="#"><img src="images/footer-latest-news-one.jpg" alt=""/></a>
@@ -52,10 +51,10 @@
                       <span class="post-date">04 February 2016</span>
                     </div>
                   </li>
-                </ul>
+                </ul> -->
               </div>
             </div>
-            <div class="col-md-3 col-sm-6">
+            <!-- <div class="col-md-3 col-sm-6">
               <div class="f-widget">
                 <h2>Twitter Widget</h2>
                 <ul class="twitter-widget">
@@ -83,10 +82,10 @@
                   </li>
                 </ul>
               </div>
-            </div>
+            </div> -->
             <div class="col-md-3 col-sm-6">
               <div class="f-widget">
-                <h2>Recent Photos</h2>
+                <h2>Fotos recentes</h2>
                 <div class="footer-instagram">
 
                   <a href="#"><img src="images/footer-intagram-one.jpg" alt=""/></a>
@@ -109,7 +108,7 @@
       <div class="container">
         <div class="row">
           <div class="copyright-text">
-            <p>&copy; 2016. Designer By <a href="#">LabArtisan</a></p>
+            <p>&copy; 2021. Designer By <a href="www.ekutivasolutions.com">eKutiva Solutions</a></p>
           </div>
           <div class="social-icon">
             <ul>

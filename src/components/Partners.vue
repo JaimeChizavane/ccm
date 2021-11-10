@@ -3,9 +3,8 @@
     <div class="container">
       <div class="row">
         <div class="section-heading">
-          <h2 class="section-title">Our Partners Logo</h2>
-          <p class="section-content">Globally leverage other's clientfocused growth strategies through pandemic and an
-            users. embrace corporate technologies for unique testing</p>
+          <h2 class="section-title">Os Nossos Membros</h2>
+          <p class="section-content">Encontre aqui a lista dos nossos membros.</p>
         </div>
       </div>
       <div class="row">
